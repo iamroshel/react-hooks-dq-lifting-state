@@ -1,4 +1,4 @@
-# Discussion Questions: Lifting State Exercise
+# Discussion Questions: Lifting State Exercise c
 
 Welcome to `Fwitter`! In this application, you can view tweets from four Twitter
 users. It's also got a dark mode theme toggle because dark mode is all the rage
